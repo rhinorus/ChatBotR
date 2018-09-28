@@ -1,0 +1,14 @@
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\bin\Debug\ChatBotR.exe.config
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.csprojResolveAssemblyReference.cache
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.Form1.resources
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.Properties.Resources.resources
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.csproj.GenerateResource.Cache
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\bin\Debug\ChatBotR.exe
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\bin\Debug\ChatBotR.pdb
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.exe
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.pdb
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.TeachForm.resources
+c:\users\владислав\documents\visual studio 2015\Projects\ChatBotR\ChatBotR\obj\Debug\ChatBotR.Skills.resources
+C:\Users\Владислав\Desktop\ChatBotR\ChatBotR\bin\Debug\ChatBotR.exe.config
+C:\Users\Владислав\Desktop\ChatBotR\ChatBotR\obj\Debug\ChatBotR.exe
+C:\Users\Владислав\Desktop\ChatBotR\ChatBotR\obj\Debug\ChatBotR.pdb

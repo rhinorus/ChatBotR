@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfQuestionWithAnswers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionWithAnswers>
+    <Question>привет</Question>
+    <Answers>
+      <string>Рад тебя видеть!</string>
+      <string>Привет =)</string>
+      <string>Какие люди! Привет!</string>
+      <string>Привет =) Как поживаешь?</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>как дела</Question>
+    <Answers>
+      <string>Всё отлично) А как твои?</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>а твои как</Question>
+    <Answers>
+      <string>Всё круто! Чем занимаешься?</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>всё хорошо а твои как</Question>
+    <Answers>
+      <string>Всё супер! Что делаешь?</string>
+      <string>Класс! Чем занимаешься?</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>всё нормально</Question>
+    <Answers>
+      <string>Это здорово! Что делаешь?</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>расскажи анекдот</Question>
+    <Answers>
+      <string>В природе всё меняется, кроме человеческой невменяемости. Шучу, не удаляйте меня =)</string>
+      <string>Всегда приятно доказать свою правоту, но особенно приятно – когда неправ. Мне такое, кстати, несвойственно ;)</string>
+      <string>Вот вы говорите, что зло не нужно помнить... Ага, как же, человек старался, а я забуду?!</string>
+      <string>— Официант, не вижу курицы в курином бульоне. Утонула, что ли? — Так она в нем только помылась, и все.</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>расскажи интересный факт</Question>
+    <Answers>
+      <string>Если наперсток наполнить материей из нейтронной звезды, он будет весить почти 100 миллионов тонн.</string>
+      <string>Если бы можно было убрать все пустое пространство в атомах, то Эверест можно было поместить в спичечный коробок.</string>
+      <string>Плутон совершил только 1/3 оборота с тех пор, как был открыт.</string>
+      <string>У ваших легких такая же площадь поверхности, как у теннисного корта. Здорово, правда?</string>
+      <string>Не существует способа научно доказать, что мы не являемся частью компьютерной имитации. Так что задумайтесь, возможно, у нас один создатель =)</string>
+      <string>Вода проводит электричество только благодаря загрязнениям. Идеально чистая вода не проводит электричество.</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>да</Question>
+    <Answers>
+      <string>Ага =)</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>ага</Question>
+    <Answers>
+      <string>Угу =)</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>ещё</Question>
+    <Answers>
+      <string>Мне кажется, Вам хватит)</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>ничего</Question>
+    <Answers>
+      <string>Это здорово)</string>
+    </Answers>
+  </QuestionWithAnswers>
+  <QuestionWithAnswers>
+    <Question>с тобой разговариваю</Question>
+    <Answers>
+      <string>А я с тобой) Совпадение, не правда ли?</string>
+    </Answers>
+  </QuestionWithAnswers>
+</ArrayOfQuestionWithAnswers>
